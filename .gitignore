@@ -72,3 +72,9 @@ public
 # System files
 .DS_Store
 Thumbs.db
+
+# .env.production
+.env.production
+
+# .env.development
+.env.development
